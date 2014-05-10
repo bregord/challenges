@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1DDD39DB-6070-429B-834D-1DFFA4B50776</string>
+	<key>IDESourceControlProjectName</key>
+	<string>firstfactorial</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>53C06D26-B9FD-4A59-91A6-E0C71A48FEC4</key>
+		<string>https://github.com/bregord/challenges.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CoderBytes/Easy/C++/firstfactorial/firstfactorial.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>53C06D26-B9FD-4A59-91A6-E0C71A48FEC4</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bregord/challenges.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>53C06D26-B9FD-4A59-91A6-E0C71A48FEC4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>53C06D26-B9FD-4A59-91A6-E0C71A48FEC4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>challenges</string>
+		</dict>
+	</array>
+</dict>
+</plist>
